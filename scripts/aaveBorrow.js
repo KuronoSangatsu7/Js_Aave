@@ -1,4 +1,3 @@
-const { FormatTypes } = require("ethers/lib/utils")
 const { getNamedAccounts, ethers } = require("hardhat")
 const { getWeth, AMOUNT } = require("./getWeth")
 
